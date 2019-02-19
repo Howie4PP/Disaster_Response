@@ -51,14 +51,14 @@ There are 3 folders in the project, which corresponds to 3 different steps(funti
 
 <a name="Command"></a>
 ## Command
-Run process_data.py
+Run process_data.py         
 The following command: <code>python data/process_data.py data/disaster_messages.csv data/disaster_categories.csv data/DisasterResponse.db</code>
 
-Run train_classifier.py
+Run train_classifier.py        
 The following command: <code>python models/train_classifier.py data/DisasterResponse.db models/classifier.pkl</code>
 
-Run the web app
-Run the following command: <code>python run.py</code>
+Run the web app        
+Run the following command: <code>python run.py</code>          
 Go to http://0.0.0.0:3001/
 
 <a name="screen"></a>
