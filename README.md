@@ -50,13 +50,13 @@ There are 3 folders in the project, which corresponds to 3 different steps(funti
    
 <a name="screen"></a>
 ## ScreenShot
-This is the result after entering one message, the categories which the message belongs to highlighted in green.
-<img src="https://github.com/Howie4PP/Disaster_Response/blob/master/Screenshot%202019-02-19%20at%203.14.15%20PM.png">   
-
 This is the complete web-app
 <img src="https://github.com/Howie4PP/Disaster_Response/blob/master/Screenshot%202019-02-19%20at%203.13.30%20PM.png">   
 
+This is the result after entering one message, the categories which the message belongs to highlighted in green.
+<img src="https://github.com/Howie4PP/Disaster_Response/blob/master/Screenshot%202019-02-19%20at%203.14.15%20PM.png">   
+
 <a name="author"></a>
 ## Acknowledgements
-Framework and knowledges of project was provided by <a href='https://www.udacity.com/'>Udacity.</a>
+Framework and knowledges of project was provided by <a href='https://www.udacity.com/'>Udacity.</a>       
 DataSet from <a href='https://www.figure-eight.com/'> Figure eight</a>
