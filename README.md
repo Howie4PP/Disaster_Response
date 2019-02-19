@@ -3,9 +3,10 @@
 ## Table of contents
 1. [Installations.](#install)       
 2. [Project Motivation.](#proj)      
-3. [File Descriptions.](#file)       
-4. [ScreenShot](#screen)
-5. [Acknowledgements.](#author)    
+3. [File Descriptions.](#file)
+4. [Command.](#Command)   
+5. [ScreenShot](#screen)
+6. [Acknowledgements.](#author)    
 
 <a name="install"></a>
 ## Installations
@@ -47,7 +48,19 @@ There are 3 folders in the project, which corresponds to 3 different steps(funti
 3. app -> Flask Web App
    - Load database and model
    - Data visualizations using Plotly in the web app
-   
+
+<a name="Command"></a>
+## Command
+Run process_data.py
+The following command: python data/process_data.py data/disaster_messages.csv data/disaster_categories.csv data/DisasterResponse.db
+
+Run train_classifier.py
+The following command: python models/train_classifier.py data/DisasterResponse.db models/classifier.pkl
+
+Run the web app
+Run the following command: python run.py
+Go to http://0.0.0.0:3001/
+
 <a name="screen"></a>
 ## ScreenShot
 This is the complete web-app
