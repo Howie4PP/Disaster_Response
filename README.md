@@ -71,5 +71,5 @@ This is the result after entering one message, the categories which the message 
 
 <a name="author"></a>
 ## Acknowledgements
-Framework and knowledges of project was provided by <a href='https://www.udacity.com/'>Udacity.</a>       
+Framework was provided by <a href='https://www.udacity.com/'>Udacity.</a>       
 DataSet from <a href='https://www.figure-eight.com/'> Figure eight</a>
